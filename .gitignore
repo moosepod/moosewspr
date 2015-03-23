@@ -1,0 +1,5 @@
+venv
+*.pyc
+.vagrant
+local_settings.py
+build/**

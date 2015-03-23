@@ -14,7 +14,7 @@ class Record(models.Model):
    distance = models.IntegerField()
    azimuth = models.IntegerField()
    band = models.IntegerField()
-   version = models.CharField(max_length=100,blank=True,null=True_
+   version = models.CharField(max_length=100,blank=True,null=True)
    code = models.PositiveIntegerField()
 
    def __unicode__(self):

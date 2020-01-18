@@ -1,4 +1,4 @@
-Django==1.7.7
+Django==1.11.27
 argparse==1.2.1
 pytz==2015.2
 wsgiref==0.1.2
